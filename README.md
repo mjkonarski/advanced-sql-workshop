@@ -4,6 +4,11 @@
 
 This repo contains materials for my Advanced SQL workshop. You can find database schema, exercises and solutions.
 
+## Schema
+
+![Schema](https://raw.githubusercontent.com/mjkonarski/advanced-sql-workshop/master/schema/schema.png)
+
+
 ## Exercise 0
 
 **Select all films released in 2016 that have at least 8 actors.**
